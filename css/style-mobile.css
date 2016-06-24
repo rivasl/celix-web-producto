@@ -1,0 +1,78 @@
+/*
+	rivasl
+	Agosto 2014
+*/
+
+/* Basic */
+
+	header.major h2 {
+		font-size: 1.6em;
+	}
+
+	header.major .byline {
+		font-size: 1.1em;
+	}
+
+	.wrapper {
+		padding: 4em 0em 2em 0em;
+	}
+
+		.wrapper.style2 {
+			padding-bottom: 5em;
+		}
+
+		.wrapper.style4 p {
+			margin-bottom: 1em;
+		}
+
+		.wrapper.style5 img {
+			width: 30%;
+		}
+
+		.wrapper.style2 .major h2 , .wrapper.style2 h2, .wrapper.style3 h2, .wrapper.style4 h2, .wrapper.style5 h2,  #footer section.container h2{
+			line-height: 1.8em;
+			font-size: 2em;
+		}
+
+
+/* Lists */
+
+	ul.icons li a {
+		font-size: 2em;
+	}
+
+/* Main */
+
+	#main #sidebar .major h2 {
+		font-size: 1.6em;
+	}
+
+/* Copyright */
+#copyright {
+	font-size: 1.6em;
+	line-height: 1.6em;
+	font-weight: bold;
+}	
+
+/* Receiver 's container*/
+#receiver-container{
+	max-width: 65%;
+	min-height: 60%;
+	padding-bottom: 2em;
+}
+
+#notes-development { 
+	/*top:2.5em;*/
+}
+
+#cellphone{
+	max-width: 100%;
+	max-height: 21em;
+	margin: 1.5em auto;
+}
+
+#message_header{
+	font-size: 1.1em;
+}
+
+
